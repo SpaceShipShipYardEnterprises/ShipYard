@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShipYard", "ShipYard.csproj", "{48CBD569-96A6-4590-8629-CE30BCDD1D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48CBD569-96A6-4590-8629-CE30BCDD1D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CBD569-96A6-4590-8629-CE30BCDD1D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CBD569-96A6-4590-8629-CE30BCDD1D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CBD569-96A6-4590-8629-CE30BCDD1D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
